@@ -1,0 +1,1 @@
+change pc.getc ----> rn42.getc().    FOR  Phone BlueTerm Test
